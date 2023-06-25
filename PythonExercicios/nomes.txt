@@ -1,0 +1,7 @@
+Beatriz; 13
+Jonny; 16
+Telma; 50
+Jorge; 54
+Lurdes; 90
+David; 9
+Maria; 15

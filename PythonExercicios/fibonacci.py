@@ -1,0 +1,10 @@
+t1 = 0
+t2 = 1
+print(f'{t2}', end=' ')
+cont = 2
+while cont <= 15:
+    t3 = t1 + t2
+    print(f'-> {t3}', end=' ')
+    cont += 1
+    t1 = t2
+    t2 = t3
